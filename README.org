@@ -1,0 +1,12 @@
+#+TITLE: ArduinoMCP17Keypad
+#+AUTHOR: GetBurning
+#+EMAIL: getburning@bakka.su
+* Purpose
+  This library implements universal PID controller class on Arduino platform.
+  It is a partial rewrite of Arduino PID Library by Brett Beauregard <br3ttb@gmail.com>.
+  What's different:
+** Exposed errors
+** pid_config struct with all the tuning values
+** Deadband and dead interval support
+** Improved code readability
+* TODO Examples
